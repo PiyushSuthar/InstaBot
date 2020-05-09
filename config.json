@@ -1,7 +1,7 @@
 {
 	"username": "optimistnaturelover",
 	"password": "piyushsuthar100",
-	"timezone": 05:30,
+	"timezone": "05:30",
 	"friends": ["PiyushSthr"],
 	"tags": "input/tags.csv",
 	"tags_to_avoid": "input/tags_to_avoid.csv",
